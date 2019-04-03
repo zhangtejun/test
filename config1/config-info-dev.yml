@@ -1,8 +1,8 @@
 server:
-  port: 8888
+  port: 8889
 spring:
   application:
-    name: config-server
+    name: config-server1
   cloud:
     config:
       server:
@@ -10,4 +10,4 @@ spring:
           uri:
           password:
           username:
-          search-paths: config # 多个目录以逗号分隔
+          search-paths: config1 # 多个目录以逗号分隔
