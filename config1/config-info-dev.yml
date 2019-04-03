@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: qwewqe
-          password: 1q2
+          uri: qwewqe111
+          password: 1q22222
           username: 345
           search-paths: config1 # 多个目录以逗号分隔
